@@ -1,5 +1,5 @@
-import Projeto from '../Projeto'
-import Titulo from '../Titulo'
+import Projeto from '../../components/Projeto'
+import Titulo from '../../components/Titulo'
 import { Lista } from './styles'
 
 const Projetos = () => (
