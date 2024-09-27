@@ -4,13 +4,14 @@ const EstiloGlobal = createGlobalStyle`
   * {
     margin: 0;
     padding: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: 'JetBrains Mono', sans-serif;
     list-style: none
 
   }
 
   body {
-    padding-top: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
   }
 `
 
